@@ -1,19 +1,24 @@
 [
-  {
-    "img": "https://i.postimg.cc/GmjqHNwb/chandan.jpg",
-    "symbol": "https://5.imimg.com/data5/SELLER/Default/2022/5/ZY/QN/GU/43404175/blue-promotional-flag-500x500.jpg",
-    "name": "chandan jaiswal"
-  },
-  {
-    "img": "https://i.ndtvimg.com/mt/2014-03/NOTA_360x270.jpg",
-    "symbol": "https://pbs.twimg.com/media/Ccsl2krXEAA92U2.jpg",
-    "name": "Dharmendra Yadav"
-  },
-  {
-    "img": "https://i.ndtvimg.com/mt/2014-03/NOTA_360x270.jpg",
-    "symbol": "https://pbs.twimg.com/media/Ccsl2krXEAA92U2.jpg",
-    "name": "Shakti Singh"
-  },
+   { 
+        "name": "Narendra Modi", 
+        "symbol": "https://waahkart.com/image/cache/catalog/1_Showpiece/bjp-kamal-logo-front-website-550x550.jpg", 
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEYEI5nU2R_FOfpmEBKHJW7TXrT7PKTdmtAw&s" 
+    },
+    { 
+        "name": "Rahul Gandhi", 
+        "symbol": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_AD0bem6V8ar2azRCWEtxI9wuWVA6dUSc2A&s", 
+        "img": "https://indianexpress.com/wp-content/uploads/2023/10/Rahul-gandhi-profile-800.jpg" 
+    },
+    { 
+        "name": "Nitish Kumar", 
+        "symbol": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjyzqIl3n4176OSJm2rPDT-4dcoWtWDFsKjA&s", 
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqoZ1186s3bjidvh7MwMg5noo4rnKZTIxikwx4S9MYrfClQRNrCUUD1d7Vmp0CuMvoVM0&usqp=CAU" 
+    },
+    { 
+        "name": "tejashwi Yadav", 
+        "symbol": "https://www.peacockride.com/cdn/shop/files/RJD_008d5622-6493-4e92-b686-7d3d2be5a58b_1024x1024.jpg?v=1683788658", 
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtSDBqdEG2aUnu25BspXNegudIV7x6bUeR5Q&s" 
+    },
   {
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSdg63IpknOBxxBjjb7sS28MQotG5CbsBb6Q&s",
     "symbol": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSdg63IpknOBxxBjjb7sS28MQotG5CbsBb6Q&s",
