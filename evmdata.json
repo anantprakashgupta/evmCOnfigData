@@ -1,43 +1,32 @@
 [
-    {
-      "img": "https://i.postimg.cc/HWqpk4dC/chandan.jpg",
-      "symbol": "https://i.postimg.cc/vByry6T7/Screenshot-from-2025-03-30-12-51-25.png",
-      "name": "Chandan jaiswal"
-    },
-    {
-      "img": "https://i.postimg.cc/gcZWQXRt/dharmendra-singh.jpg",
-      "symbol": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrtZyVHukRB0ju_jwd_Qo2f52MmfAtEQ7mQA&s",
-      "name": "Dharmendra Yadav"
-    },
-    {
-      "img": "https://i.postimg.cc/1tVLk2gV/shakti-singh.jpg",
-      "symbol": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Indian_Election_Symbol_Book.svg/522px-Indian_Election_Symbol_Book.svg.png",
-      "name": "Shakti Singh"
-    },
-    {
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSdg63IpknOBxxBjjb7sS28MQotG5CbsBb6Q&s",
-      "symbol": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSdg63IpknOBxxBjjb7sS28MQotG5CbsBb6Q&s",
-      "name": ""
-    },
-    {
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSdg63IpknOBxxBjjb7sS28MQotG5CbsBb6Q&s",
-      "symbol": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSdg63IpknOBxxBjjb7sS28MQotG5CbsBb6Q&s",
-      "name": ""
-    },
-      {
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSdg63IpknOBxxBjjb7sS28MQotG5CbsBb6Q&s",
-      "symbol": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSdg63IpknOBxxBjjb7sS28MQotG5CbsBb6Q&s",
-      "name": ""
-    },
-      {
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSdg63IpknOBxxBjjb7sS28MQotG5CbsBb6Q&s",
-      "symbol": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSdg63IpknOBxxBjjb7sS28MQotG5CbsBb6Q&s",
-      "name": ""
-    },
-  
-    {
-      "img": "https://i.ndtvimg.com/mt/2014-03/NOTA_360x270.jpg",
-      "symbol": "https://pbs.twimg.com/media/Ccsl2krXEAA92U2.jpg",
-      "name": "Nota"
-    }
-  ]
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/JDU_symbol.png",
+    "symbol": "https://upload.wikimedia.org/wikipedia/commons/9/9b/JDU_symbol.png",
+    "name": "Janata Dal (United)"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/RJD_flag.svg",
+    "symbol": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Lantern-election-symbol.png",
+    "name": "Rashtriya Janata Dal"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/0d/BJP_India.png",
+    "symbol": "https://upload.wikimedia.org/wikipedia/commons/6/62/BJP_Flag_200px.png",
+    "name": "Bharatiya Janata Party"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Indian_National_Congress_flag.svg",
+    "symbol": "https://upload.wikimedia.org/wikipedia/commons/4/43/Hand-Election-Symbol.png",
+    "name": "Indian National Congress"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/05/Communist_Party_of_India_flag.png",
+    "symbol": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Election_Symbol_of_CPI_%28M%29.png",
+    "name": "Communist Party of India (Marxist)"
+  },
+  {
+    "img": "https://i.ndtvimg.com/mt/2014-03/NOTA_360x270.jpg",
+    "symbol": "https://pbs.twimg.com/media/Ccsl2krXEAA92U2.jpg",
+    "name": "Nota"
+  }
+]
