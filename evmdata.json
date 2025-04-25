@@ -1,30 +1,47 @@
 [
   {
-    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/JDU_symbol.png",
-    "symbol": "https://upload.wikimedia.org/wikipedia/commons/9/9b/JDU_symbol.png",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Nitish_Kumar_with_JDU_functionaries_%28cropped%29.jpg/60px-Nitish_Kumar_with_JDU_functionaries_%28cropped%29.jpg",
+    "symbol": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Indian_Election_Symbol_Arrow.svg/60px-Indian_Election_Symbol_Arrow.svg.png",
     "name": "Janata Dal (United)"
   },
   {
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/RJD_flag.svg",
-    "symbol": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Lantern-election-symbol.png",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/NDA%27s_Dilip_Jaiswal_meeting_with_Nitish_Kumar_after_victory_of_their_candidates_in_bypolls_%28cropped%29.jpg/40px-NDA%27s_Dilip_Jaiswal_meeting_with_Nitish_Kumar_after_victory_of_their_candidates_in_bypolls_%28cropped%29.jpg",
+    "symbol": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Lotus_flower_symbol.svg/60px-Lotus_flower_symbol.svg.png",
+    "name": "Bharatiya Janata Party"
+  },
+  
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rajesh_Kumar_Bihar_Congress.jpg/60px-Rajesh_Kumar_Bihar_Congress.jpg",
+    "symbol": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Indian_Election_Symbol_Hurricane_Lamp.png/60px-Indian_Election_Symbol_Hurricane_Lamp.png",
     "name": "Rashtriya Janata Dal"
   },
   {
-    "img": "https://upload.wikimedia.org/wikipedia/commons/0/0d/BJP_India.png",
-    "symbol": "https://upload.wikimedia.org/wikipedia/commons/6/62/BJP_Flag_200px.png",
-    "name": "Bharatiya Janata Party"
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Prashant_Kishor.png/60px-Prashant_Kishor.png",
+    "symbol": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/60px-No_image_available.svg.png",
+    "name": "Jan Suraaj Party"
   },
   {
-    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Indian_National_Congress_flag.svg",
-    "symbol": "https://upload.wikimedia.org/wikipedia/commons/4/43/Hand-Election-Symbol.png",
-    "name": "Indian National Congress"
+    "img": "",
+    "symbol": "",
+    "name": ""
   },
   {
-    "img": "https://upload.wikimedia.org/wikipedia/commons/0/05/Communist_Party_of_India_flag.png",
-    "symbol": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Election_Symbol_of_CPI_%28M%29.png",
-    "name": "Communist Party of India (Marxist)"
+    "img": "",
+    "symbol": "",
+    "name": ""
+  },
+   {
+    "img": "",
+    "symbol": "",
+    "name": ""
   },
   {
+    "img": "",
+    "symbol": "",
+    "name": ""
+  },
+
+   {
     "img": "https://i.ndtvimg.com/mt/2014-03/NOTA_360x270.jpg",
     "symbol": "https://pbs.twimg.com/media/Ccsl2krXEAA92U2.jpg",
     "name": "Nota"
